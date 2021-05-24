@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 - Trace moveit and OMPL codebase and try to understand framework principle of operation.
 - Research important skill and teach team members to keep improving:
 
-    [academy](https://wayneliu0512.github.io/academy/)
+    [academy](https://wayneliu0512.github.io/academy_mkdocs/)
 
 - Introduce agile development to team (Jira)
 - Make our coding style rule and introduce to team
