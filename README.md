@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 # ☎️ Contact information
 
-📧 Email: wayneliu0512@gmail.com
+📧 Email: wayneliuber@protonmail.com
 
 🔗 LinkedIn:
 
